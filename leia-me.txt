@@ -1,0 +1,3 @@
+Esse aplicativo mostra o uso do CheckBox. Após o usuário selecionar os itens que deseja, ele exibe na tela 
+cada opção e se foi selecionado ou não, utilizando para isso o true: para os selecionados e false: para os
+não selecionados.
